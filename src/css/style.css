@@ -1,0 +1,68 @@
+.bg-color{
+    background-color: #f7f8f9;
+}
+.form-cadastro{
+    height: 100vh;
+}
+.are-form{
+    height: 70vh;
+}
+
+.btn-listar {
+    color: #fff;
+    background-color: #b20000;
+    border-color: #b20000;
+  }
+  .btn-listar:focus,
+  .btn-listar.focus {
+    color: #fff;
+    background-color: #b20000;
+    border-color: #b20000;
+  }
+  .btn-listar:hover {
+    color: #fff;
+    background-color: #b20000;
+    border-color: #b20000;
+  }
+  .btn-listar:active,
+  .btn-listar.active,
+  .open > .dropdown-toggle.btn-listar {
+    color: #fff;
+    background-color: #b20000;
+    border-color: #b20000;
+  }
+  .btn-listar:active:hover,
+  .btn-listar.active:hover,
+  .open > .dropdown-toggle.btn-listar:hover,
+  .btn-listar:active:focus,
+  .btn-listar.active:focus,
+  .open > .dropdown-toggle.btn-listar:focus,
+  .btn-listar:active.focus,
+  .btn-listar.active.focus,
+  .open > .dropdown-toggle.btn-listar.focus {
+    color: #fff;
+    background-color: #b20000;
+    border-color: #b20000;
+  }
+  .btn-listar:active,
+  .btn-listar.active,
+  .open > .dropdown-toggle.btn-listar {
+    background-image: none;
+  }
+  .btn-listar.disabled:hover,
+  .btn-listar[disabled]:hover,
+  fieldset[disabled] .btn-listar:hover,
+  .btn-listar.disabled:focus,
+  .btn-listar[disabled]:focus,
+  fieldset[disabled] .btn-listar:focus,
+  .btn-listar.disabled.focus,
+  .btn-listar[disabled].focus,
+  fieldset[disabled] .btn-listar.focus {
+    background-color: #b20000;
+    border-color: #b20000;
+  }
+  .btn-listar .badge {
+    color: #b20000;
+    background-color: #fff;
+  }
+  
